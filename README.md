@@ -1,1 +1,0 @@
-# modelo_instancias_SCP
